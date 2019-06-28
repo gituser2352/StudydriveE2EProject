@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="61246" started-at="2019-06-28T21:38:23Z" finished-at="2019-06-28T21:39:24Z">
+    <groups>
+    </groups>
+    <test name="Validating Files Uploading" duration-ms="61246" started-at="2019-06-28T21:38:23Z" finished-at="2019-06-28T21:39:24Z">
+      <class name="studydrive.StudydriveUITest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:studydrive.StudydriveUITest@59fd97a8]" name="initialize" is-config="true" duration-ms="12109" started-at="2019-06-28T21:38:23Z" finished-at="2019-06-28T21:38:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifyFileUpload()[pri:0, instance:studydrive.StudydriveUITest@59fd97a8]" name="VerifyFileUpload" duration-ms="46801" started-at="2019-06-28T21:38:35Z" finished-at="2019-06-28T21:39:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFileUpload -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:studydrive.StudydriveUITest@59fd97a8]" name="teardown" is-config="true" duration-ms="2321" started-at="2019-06-28T21:39:22Z" finished-at="2019-06-28T21:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- studydrive.StudydriveUITest -->
+    </test> <!-- Validating Files Uploading -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

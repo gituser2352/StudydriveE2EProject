@@ -1,0 +1,58 @@
+00:35:33.830 [main] INFO  resources.base - Text is displayed correctly for the the element Banks
+00:35:33.837 [main] INFO  resources.base - Text is displayed correctly for the the element About
+00:35:33.837 [main] INFO  resources.base - Text is displayed correctly for the the element Become a Partner
+00:35:33.837 [main] INFO  resources.base - Text is displayed correctly for the the element Blog
+00:44:03.859 [main] INFO  resources.base - Driver is initialized
+00:44:08.849 [main] INFO  resources.base - Url opened is https://www.raisin.com/
+00:44:08.866 [main] INFO  resources.base - Navigated to Homepage
+00:44:14.582 [main] INFO  resources.base - Captured Screenshot successfully forRegionSelectionPopup
+00:44:16.052 [main] INFO  resources.base - Clicked on the element successfully
+00:44:16.053 [main] INFO  resources.base - Closed the region popup
+00:44:21.809 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:44:21.956 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:44:22.090 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:44:22.224 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:44:22.362 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:44:22.363 [main] INFO  resources.base - Text is displayed correctly for the the element Our Offers
+00:44:22.363 [main] INFO  resources.base - Text is displayed correctly for the the element Banks
+00:44:22.363 [main] INFO  resources.base - Text is displayed correctly for the the element About
+00:44:22.363 [main] INFO  resources.base - Text is displayed correctly for the the element Become a Partner
+00:44:22.363 [main] INFO  resources.base - Text is displayed correctly for the the element Blog
+00:44:25.815 [main] INFO  resources.base - Driver is initialized
+00:44:30.432 [main] INFO  resources.base - Url opened is https://www.raisin.com/
+00:44:30.435 [main] INFO  resources.base - Navigated to Homepage
+00:44:35.984 [main] INFO  resources.base - Captured Screenshot successfully forRegionSelectionPopup
+00:44:36.222 [main] INFO  resources.base - Clicked on the element successfully
+00:44:36.222 [main] INFO  resources.base - Closed the region popup
+00:44:43.464 [main] INFO  resources.base - Clicked on the element successfully
+00:44:49.266 [main] INFO  resources.base - Captured Screenshot successfully forOurofferslinkpage
+00:44:49.316 [main] INFO  resources.base - Navigated to the correct page successfully
+00:44:51.817 [main] INFO  resources.base - Clicked on the element successfully
+00:45:00.583 [main] INFO  resources.base - Captured Screenshot successfully forBankslinkpage
+00:45:00.685 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:45:00.685 [main] INFO  resources.base - Text is displayed correctly for the the Banks link page.
+00:45:04.001 [main] INFO  resources.base - Clicked on the element successfully
+00:45:12.903 [main] INFO  resources.base - Captured Screenshot successfully forBecomeAPartnerlinkpage
+00:45:12.989 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:45:12.990 [main] INFO  resources.base - Text is displayed correctly for the the BecomeAPartner link page.
+00:45:21.227 [main] INFO  resources.base - Clicked on the element successfully
+00:45:30.443 [main] INFO  resources.base - Captured Screenshot successfully forBloglinkpage
+00:45:30.533 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:45:30.533 [main] INFO  resources.base - Text is displayed correctly for the the BecomeAPartner link page.
+00:45:30.726 [main] INFO  resources.base - Clicked on the element successfully
+00:45:33.486 [main] INFO  resources.base - Clicked on the element successfully
+00:45:42.315 [main] INFO  resources.base - Captured Screenshot successfully forAboutSublink1page
+00:45:42.399 [main] INFO  resources.base - Successfully retreived the text from the element 
+00:45:42.399 [main] INFO  resources.base - Text is displayed correctly for the the About-Sublink1 page.
+00:49:23.152 [main] INFO  resources.base - Driver is initialized
+00:49:27.882 [main] INFO  resources.base - Url opened is https://www.raisin.com/
+00:49:31.183 [main] INFO  resources.base - Driver is initialized
+00:49:34.961 [main] INFO  resources.base - Url opened is https://www.raisin.com/
+00:49:34.979 [main] INFO  resources.base - Navigated to Homepage
+00:52:03.665 [main] INFO  resources.base - Driver is initialized
+00:52:08.061 [main] INFO  resources.base - Url opened is https://www.raisin.com/
+00:52:11.604 [main] INFO  resources.base - Driver is initialized
+00:53:14.663 [main] INFO  resources.base - Driver is initialized
+00:53:18.036 [main] INFO  resources.base - Url opened is https://www.raisin.com/
+00:53:18.051 [main] INFO  resources.base - Navigated to Homepage
+00:53:23.679 [main] INFO  resources.base - Captured Screenshot successfully forRegionSelectionPopup

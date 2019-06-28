@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+<listeners>
+	<listener class-name="studydrive.listeners"/>
+	<listener class-name="resources.ExtentReporterNG"/>
+</listeners>
+  <test name="Validating Files Uploading">
+    <classes>
+      <class name="studydrive.StudydriveUITest"/>
+  </classes>
+  </test> <!-- Test -->
+
+</suite> <!-- Suite -->

@@ -1,0 +1,8 @@
+13:00:08.073 [main] INFO  resources.base - Driver is initialized
+13:00:16.810 [main] INFO  resources.base - Navigated to Homepage
+13:04:22.485 [main] INFO  resources.base - Entered Username
+13:04:22.700 [main] INFO  resources.base - Entered Password
+13:05:53.161 [main] INFO  resources.base - Clicked on Login button
+13:05:53.162 [main] INFO  resources.base - Non Restricted user
+13:10:05.357 [main] INFO  resources.base - Navigated to Homepage
+13:13:55.047 [main] INFO  resources.base - Entered Username

@@ -1,0 +1,8 @@
+17:07:14.473 [main] INFO  resources.base - Entered Username
+17:07:14.666 [main] INFO  resources.base - Entered Password
+17:07:17.822 [main] INFO  resources.base - Clicked on Login button
+17:07:17.822 [main] INFO  resources.base - Non Restricted user
+17:07:19.601 [main] INFO  resources.base - Navigated to Homepage
+17:07:23.923 [main] INFO  resources.base - Entered Username
+17:07:24.023 [main] INFO  resources.base - Entered Password
+17:07:27.344 [main] INFO  resources.base - Clicked on Login button

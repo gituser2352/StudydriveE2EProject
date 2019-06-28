@@ -1,0 +1,50 @@
+23:32:30.192 [main] INFO  resources.base - Captured Screenshot successfully forinnerupload
+23:32:36.598 [main] INFO  resources.base - Successfully entered the text for the element: 
+23:32:37.426 [main] INFO  resources.base - Captured Screenshot successfully foreltAddProfessorname
+23:32:37.597 [main] INFO  resources.base - Successfully entered the text for the element: 
+23:32:38.364 [main] INFO  resources.base - Captured Screenshot successfully foreltAdddescription
+23:32:38.490 [main] INFO  resources.base - Successfully selected value from the dropdown: 
+23:32:39.245 [main] INFO  resources.base - Captured Screenshot successfully forSommer 2019
+23:32:39.364 [main] INFO  resources.base - Successfully selected value from the dropdown: 
+23:32:40.166 [main] INFO  resources.base - Captured Screenshot successfully forAndere
+23:32:40.281 [main] INFO  resources.base - Clicked on the element successfully
+23:32:46.186 [main] INFO  resources.base - Captured Screenshot successfully forafterupload
+23:32:51.316 [main] INFO  resources.base - Clicked on the element successfully
+23:32:52.057 [main] INFO  resources.base - Captured Screenshot successfully forselectedcoursepageafterupload
+23:38:27.303 [main] INFO  resources.base - Driver is initialized
+23:38:35.404 [main] INFO  resources.base - Url opened is https://www.studydrive.net/de
+23:38:35.416 [main] INFO  resources.base - Navigated to Homepage
+23:38:39.211 [main] INFO  resources.base - Captured Screenshot successfully forHomepage
+23:38:39.870 [main] INFO  resources.base - Clicked on the element successfully
+23:38:40.095 [main] INFO  resources.base - Clicked on the element successfully
+23:38:40.440 [main] INFO  resources.base - Successfully entered the text for the element: 
+23:38:41.233 [main] INFO  resources.base - Captured Screenshot successfully foreltusername
+23:38:41.404 [main] INFO  resources.base - Successfully entered the text for the element: 
+23:38:42.263 [main] INFO  resources.base - Captured Screenshot successfully foreltPassword
+23:38:42.438 [main] INFO  resources.base - Clicked on the element successfully
+23:38:46.502 [main] INFO  resources.base - Captured Screenshot successfully forHomepageafterLogin
+23:38:50.616 [main] INFO  resources.base - Clicked on the element successfully
+23:38:51.271 [main] INFO  resources.base - Captured Screenshot successfully forselectedcourse
+23:38:51.443 [main] INFO  resources.base - Clicked on the element successfully
+23:38:52.124 [main] INFO  resources.base - Captured Screenshot successfully forAdddocument
+23:38:54.483 [main] INFO  resources.base - Clicked on the element successfully
+23:38:55.318 [main] INFO  resources.base - Captured Screenshot successfully foruploaddoc
+23:38:55.415 [main] INFO  resources.base - Clicked on the element successfully
+23:38:56.313 [main] INFO  resources.base - Captured Screenshot successfully forinnerupload
+23:39:02.567 [main] INFO  resources.base - Successfully entered the text for the element: 
+23:39:03.359 [main] INFO  resources.base - Captured Screenshot successfully foreltAddProfessorname
+23:39:03.505 [main] INFO  resources.base - Successfully entered the text for the element: 
+23:39:04.266 [main] INFO  resources.base - Captured Screenshot successfully foreltAdddescription
+23:39:04.389 [main] INFO  resources.base - Successfully selected value from the dropdown: 
+23:39:05.127 [main] INFO  resources.base - Captured Screenshot successfully forSommer 2019
+23:39:05.268 [main] INFO  resources.base - Successfully selected value from the dropdown: 
+23:39:06.051 [main] INFO  resources.base - Captured Screenshot successfully forAndere
+23:39:06.157 [main] INFO  resources.base - Clicked on the element successfully
+23:39:11.815 [main] INFO  resources.base - Captured Screenshot successfully forafterupload
+23:39:18.791 [main] INFO  resources.base - Clicked on the element successfully
+23:39:19.505 [main] INFO  resources.base - Captured Screenshot successfully forselectedcoursepageafterupload
+23:39:19.573 [main] INFO  resources.base - Successfully retreived the text from the element 
+23:39:21.785 [main] INFO  resources.base - Clicked on the element successfully
+23:39:21.842 [main] INFO  resources.base - Successfully retreived the text from the element 
+23:39:21.843 [main] INFO  resources.base - Uploaded correct file in the selected course Successfully
+23:39:22.217 [main] INFO  resources.base - Captured Screenshot successfully forCorrectlyuploadedfile
